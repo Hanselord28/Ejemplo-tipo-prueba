@@ -17,10 +17,14 @@ por "ver historial de reservas"para que tenga mayor coherenciacon los requisitos
 
 diagrama de clases
 -
-1-la clase reserva no está relacionada de ninguna forma 
+1-la clase "reserva" no está relacionada de ninguna forma 
 
-2-
+2-el usuario deberia tener 4 metodos siendo reservar, cancelar, ver historial y justificar cancelacion segun el diagrama de caso de uso, sin embargo tiene solo 2 
+
+3-ninguna clase de notificacion obtiene datos como para poder notificar, por ejemplo, el correo 
+
 
 diagrama de implementacion
 -
 1-la base de datos central deberia estar diagramada en la parte superior, ya que a partir de ahi comienza el flujo de datos 
+
